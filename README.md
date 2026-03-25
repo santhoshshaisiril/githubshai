@@ -16,9 +16,9 @@ To learn basic concepts and complete the assigned task.
 - Improved basic knowledge  
 
 ## Student Details
-Name: Your Name  
-Department: Your Department  
-College: Your College Name  
+Name: Santhosh Shai Siril  
+Department:ECE 
+College: VSB Engineering College
 
 ## Note
 This project is done for academic purpose only.
