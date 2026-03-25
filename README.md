@@ -1,4 +1,4 @@
-# College Activity Project
+# Github Activity 
 
 ## About
 This repository is created as part of my college activity.
