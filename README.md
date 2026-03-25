@@ -20,5 +20,4 @@ Name: Santhosh Shai Siril
 Department:ECE 
 College: VSB Engineering College
 
-## Note
-This project is done for academic purpose only.
+
